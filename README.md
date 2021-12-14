@@ -19,7 +19,7 @@ A document in this dataset is labeled positive, if it mentions a person(s) diagn
 The file is tab separated:
 1) Domain name
 2) Label (0 and 1 indicate negative. 2 and 3 indicate positive)
-3) Documnet body
+3) Document body
 <br/><br/>
 
 If you are using this dataset, please cite the paper below:
