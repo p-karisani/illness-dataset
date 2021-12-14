@@ -17,12 +17,12 @@ A document in this dataset is labeled positive, if it mentions a person(s) diagn
 
 **Dataset Format** <br/>
 The file is tab separated:
-1) Tweet id
-2) Domain name
-3) Label (0 and 1 indicates negative. 2 and 3 indicates positive)
+1) Domain name
+2) Label (0 and 1 indicate negative. 2 and 3 indicate positive)
+3) Documnet body
 <br/><br/>
 
-If you are using this dataset, please cite the below paper:
+If you are using this dataset, please cite the paper below:
 
 ```
 @misc{karisani2021contextual,
