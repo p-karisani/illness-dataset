@@ -1,6 +1,6 @@
 # illness-dataset
-This is the extended version of the dataset introduced in the following paper: <br/>
-*Contextual Multi-View Query Learning for Short Text Classification in User-Generated Data*, Payam Karisani, Negin Karisani, and Li Xiong. Preprint 2021. [Link](https://arxiv.org/abs/2112.02611)
+This is the extended version of the dataset introduced in the first revision of the following paper: <br/>
+*Multi-View Active Learning for Short Text Classification in User-Generated Data*, Payam Karisani, Negin Karisani, and Li Xiong. EMNLP Findings 2022. [Link](https://arxiv.org/abs/2112.02611)
 
 **Dataset Description** <br/>
 See the paper for details, but in short: the dataset consists of 22,660 documents (tweets) collected in 2018 and 2019. It spans across four domains: Alzheimer's, Parkinson's, Cancer, and Diabetes. You can see the stats below. <br/>
@@ -26,11 +26,10 @@ If you are using this dataset, please cite the paper below:
 
 ```
 @misc{karisani2021contextual,
-      title={Contextual Multi-View Query Learning for Short Text Classification in User-Generated Data}, 
-      author={Payam Karisani and Negin Karisani and Li Xiong},
-      year={2021},
-      eprint={2112.02611},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      title = {Multi-View Active Learning for Short Text Classification in User-Generated Data}, 
+      author = {Payam Karisani and Negin Karisani and Li Xiong},
+      year = {2022},
+      publisher = {Association for Computational Linguistics},
+      booktitle = {Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
 }
 ```
